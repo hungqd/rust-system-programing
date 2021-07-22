@@ -10,4 +10,8 @@ edition = "2018"
 name = "new-first-program"
 path = "src/main.rs"
 
+[[bin]]
+name = "new-second-program"
+path = "src/second.rs"
+
 [dependencies]
